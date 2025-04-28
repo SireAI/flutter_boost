@@ -19,7 +19,6 @@ import io.flutter.embedding.android.FlutterEngineProvider;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.embedding.engine.FlutterEngineCache;
 import io.flutter.embedding.engine.dart.DartExecutor;
-import io.flutter.view.FlutterMain;
 import io.flutter.FlutterInjector
 
 public class FlutterBoost {
