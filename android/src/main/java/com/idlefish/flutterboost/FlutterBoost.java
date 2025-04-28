@@ -19,7 +19,7 @@ import io.flutter.embedding.android.FlutterEngineProvider;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.embedding.engine.FlutterEngineCache;
 import io.flutter.embedding.engine.dart.DartExecutor;
-import io.flutter.FlutterInjector
+import io.flutter.FlutterInjector;
 
 public class FlutterBoost {
     public static final String ENGINE_ID = "flutter_boost_default_engine";
